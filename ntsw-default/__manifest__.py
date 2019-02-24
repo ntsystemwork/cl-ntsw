@@ -46,7 +46,7 @@
 
     'port': '8069',
     'repos': [
-        {'usr': 'ntsystemwork', 'repo': 'cl', 'branch': '11.0', 'ssh':True},
+        {'usr': 'wilfredomorenog', 'repo': 'cl', 'branch': '11.0', 'ssh':True},
         {'usr': 'ntsystemwork', 'repo': 'templates', 'branch': '11.0', 'ssh': True},
 
         {'usr': 'jobiols', 'repo': 'odoo-addons', 'branch': '11.0'},
