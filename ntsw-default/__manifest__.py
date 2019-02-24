@@ -10,7 +10,7 @@
     'version': '11.0e.0.0.2',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
-    'summary': 'Customizacion para Polimera',
+    'summary': 'Customizacion para NTSW',
     'author': 'NTSystemWork',
     'depends': [
         'sale_management',
@@ -34,10 +34,6 @@
         'product_currency',
         'product_unique',
 
-        # modulos particulares para el proyecto
-        'sale_extended',
-        'custom_reports'
-
     ],
     'data': [
     ],
@@ -50,7 +46,7 @@
 
     'port': '8069',
     'repos': [
-        {'usr': 'ntsystemwork', 'repo': 'cl-polimera', 'branch': '11.0', 'ssh':True},
+        {'usr': 'ntsystemwork', 'repo': 'cl', 'branch': '11.0', 'ssh':True},
         {'usr': 'ntsystemwork', 'repo': 'templates', 'branch': '11.0', 'ssh': True},
 
         {'usr': 'jobiols', 'repo': 'odoo-addons', 'branch': '11.0'},
