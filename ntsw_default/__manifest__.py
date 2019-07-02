@@ -34,6 +34,7 @@
     'port': '8069',
     'repos': [
         {'usr': 'ntsystemwork', 'repo': 'cl-ntsw', 'branch': '11.0', 'ssh': True},
+        {'usr': 'ntsystemwork', 'repo': 'common-addons', 'branch': '11.0', 'ssh':True},
 
         {'usr': 'jobiols', 'repo': 'odoo-addons', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'adhoc-stock', 'branch': '11.0'},
