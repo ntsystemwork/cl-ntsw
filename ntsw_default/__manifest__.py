@@ -16,6 +16,11 @@
         'sale_management',
         'account_invoicing',
         'purchase',
+        'crm',
+        'project',
+        'stock',
+        'helpdesk',
+        'hr_recruitment',
 
         'standard_depends_ee',
 
