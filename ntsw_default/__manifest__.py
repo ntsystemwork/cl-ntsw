@@ -26,6 +26,7 @@
 
         # utilitarios
         'product_currency',
+        'automatic_backup'
     ],
     'data': [
     ],
