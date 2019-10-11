@@ -62,7 +62,7 @@
         {'usr': 'jobiols', 'repo': 'oca-server-ux', 'branch': '11.0'},
 
         # enterprise only
-        {'usr': 'jobiols', 'repo': 'adhoc-enterprise-extensions', 'branch': '11.0'},
+        {'usr': 'ingadhoc', 'repo': 'enterprise-extensions', 'branch': '11.0'},
 
 
     ],
